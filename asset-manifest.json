@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ex2-signets/static/css/main.c1ac91c7.chunk.css",
+    "main.js": "/ex2-signets/static/js/main.8704016f.chunk.js",
+    "main.js.map": "/ex2-signets/static/js/main.8704016f.chunk.js.map",
+    "runtime-main.js": "/ex2-signets/static/js/runtime-main.4b84eba1.js",
+    "runtime-main.js.map": "/ex2-signets/static/js/runtime-main.4b84eba1.js.map",
+    "static/css/2.6394864b.chunk.css": "/ex2-signets/static/css/2.6394864b.chunk.css",
+    "static/js/2.34ead633.chunk.js": "/ex2-signets/static/js/2.34ead633.chunk.js",
+    "static/js/2.34ead633.chunk.js.map": "/ex2-signets/static/js/2.34ead633.chunk.js.map",
+    "index.html": "/ex2-signets/index.html",
+    "static/css/2.6394864b.chunk.css.map": "/ex2-signets/static/css/2.6394864b.chunk.css.map",
+    "static/css/main.c1ac91c7.chunk.css.map": "/ex2-signets/static/css/main.c1ac91c7.chunk.css.map",
+    "static/js/2.34ead633.chunk.js.LICENSE.txt": "/ex2-signets/static/js/2.34ead633.chunk.js.LICENSE.txt",
+    "static/media/avatar1.971104d3.png": "/ex2-signets/static/media/avatar1.971104d3.png",
+    "static/media/index.css": "/ex2-signets/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b84eba1.js",
+    "static/css/2.6394864b.chunk.css",
+    "static/js/2.34ead633.chunk.js",
+    "static/css/main.c1ac91c7.chunk.css",
+    "static/js/main.8704016f.chunk.js"
+  ]
+}
